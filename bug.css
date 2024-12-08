@@ -1,0 +1,1 @@
+The CSS specificity rules can lead to unexpected behavior.  For instance, if you have conflicting styles applied to an element through different selectors (e.g., a class and an ID), the more specific selector will win.  This can be hard to debug if you're not aware of how specificity works.
